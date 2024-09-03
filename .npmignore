@@ -7,3 +7,5 @@ public
 app
 build
 app-doc
+package.json
+package-lock.json
