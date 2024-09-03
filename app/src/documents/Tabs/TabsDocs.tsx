@@ -206,7 +206,7 @@ const TabsDocs: React.FC = () => {
       id: 'section-2',
       title: 'Ancho fijo',
       content: (
-        <div className="col-12 max-720">          
+        <div className="col-12 max-720">
           <CodeBox codeHTML={TABS_FIXED_WIDTH}>
             <div className="container">
               <nav className="tabs-box" aria-label="Navegación por pestañas">

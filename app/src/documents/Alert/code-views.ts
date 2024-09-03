@@ -1,5 +1,4 @@
-export const SIMPLE_ALERT =
-  `
+export const SIMPLE_ALERT = `
     <div class="alert alert-info" role="alert">
       <p>Esta es la descripción de una alerta de información.</p>
     </div>
@@ -15,8 +14,7 @@ export const SIMPLE_ALERT =
 
 `;
 
-export const WITH_CLOSE_ALERT =
-  `
+export const WITH_CLOSE_ALERT = `
     <div className="alert alert-primary alert-dismissible fade show" role="alert">
       Esta es la descripción de una alerta de información.
       <button

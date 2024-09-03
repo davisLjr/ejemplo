@@ -1,7 +1,5 @@
-
 // Simple
-export const SIMPLE_ACCESS =
-  `
+export const SIMPLE_ACCESS = `
     <div class="list-group">
 
       <a href="#" class="list-group-item item-sm">
@@ -25,8 +23,7 @@ export const SIMPLE_ACCESS =
 `;
 
 // Con descripcion
-export const WITH_DESCRIPTION_ACCESS =
-  `
+export const WITH_DESCRIPTION_ACCESS = `
   <div className="list-group">
 
     <a href="#" className="list-group-item item-sm">
@@ -62,8 +59,7 @@ export const WITH_DESCRIPTION_ACCESS =
 `;
 
 // Con icono
-export const WITH_ICON_ACCESS =
-  `
+export const WITH_ICON_ACCESS = `
   <div className="list-group">
 
     <a href="#" className="list-group-item item-sm">
@@ -103,8 +99,7 @@ export const WITH_ICON_ACCESS =
 `;
 
 // Tamaños
-export const SIZES_ACCESS =
-  `
+export const SIZES_ACCESS = `
   <div className="list-group">
     <a href="#" className="list-group-item ">
       <span className="access-title">Acceso</span>
@@ -117,8 +112,7 @@ export const SIZES_ACCESS =
 `;
 
 // Lista ancho completo | 4 columnas
-export const FOUR_COLUMNS_ACCESS =
-  `
+export const FOUR_COLUMNS_ACCESS = `
   <div className="access-items-4">
     <div className="col">
       <a href="#" className="list-group-item item-sm">
@@ -150,8 +144,7 @@ export const FOUR_COLUMNS_ACCESS =
 `;
 
 // Lista ancho completo | 3 columnas
-export const THREE_COLUMNS_ACCESS =
-  `
+export const THREE_COLUMNS_ACCESS = `
 <div className="access-items-3">
   <div className="col">
     <a href="#" className="list-group-item item-sm">
@@ -183,8 +176,7 @@ export const THREE_COLUMNS_ACCESS =
 `;
 
 // Lista ancho completo | 2 columnas
-export const ONE_COLUMN_ACCESS =
-  `
+export const ONE_COLUMN_ACCESS = `
   <div className="container">
       <div className="row">
         {/* Columna para accesos */}
@@ -230,4 +222,3 @@ export const ONE_COLUMN_ACCESS =
   </div>
 
 `;
-
